@@ -5,16 +5,17 @@
   font-weight: 500;
   font-style: normal;
   font-optical-sizing: auto;
-  background-color: rgb(223, 224, 226);
+  background-color: rgb(239, 241, 245);
 }
 section{
-border-bottom: 1px solid;  
+border-bottom: 1px solid;   
 padding: 40px 10px;
 }
+
 .name {
   padding: 50px auto;
   height: 100px auto;
-  background-color: lightsteelblue;
+  background-color: rgb(169, 171, 173);
   text-align: center;
   color: deeppink;
   font-size: 100px;
@@ -40,4 +41,18 @@ a {text-decoration: none;}
   height: 300px; 
   width: auto; 
  
+}
+blockquote {
+  display: inline;
+}
+i{
+  font-size: 25px;
+  color: black;
+}
+h1, h2 ,h3 {
+  color: rgb(19, 4, 87);
+}
+h3 , footer
+{text-align: center; 
+ background-color: black;
 }
