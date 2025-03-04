@@ -36,8 +36,8 @@ a {text-decoration: none;}
 }
 .meta {
   display: block;
-  margin: 10px 0 ;
-  height: 100px; 
-  width: 50px; 
-  border-radius: ;
+  margin: 10px 100px ;
+  height: 300px; 
+  width: auto; 
+ 
 }
